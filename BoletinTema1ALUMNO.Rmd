@@ -191,8 +191,8 @@ nrow(cabbages)
 ncol(cabbages)
 str(cabbages)
 
-
-
+#b.
+is.na(cabbages)
 
 
 
