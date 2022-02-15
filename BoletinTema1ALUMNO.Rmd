@@ -194,11 +194,11 @@ str(cabbages)
 #b.
 is.na(cabbages)
 
-
-
-
-
-
+#c.
+nrow(Chile)
+ncol(Chile)
+str(Chile)
+is.na(Chile)
 
 
 
