@@ -200,9 +200,9 @@ ncol(Chile)
 str(Chile)
 is.na(Chile)
 
-
-
-
+#d.
+summary(cabbages)
+summary(Chile)
 
 
 
