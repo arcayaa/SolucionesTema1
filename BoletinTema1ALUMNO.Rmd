@@ -260,8 +260,9 @@ b.  Repite el apartado anterior, pero obteniendo un modelo para cada una de las 
 
 ```{r}
 
-
-
+#a.
+#No existe una relacion lineal
+plot(cabbages$VitC ~ cabbages$HeadWt)
 
 
 
