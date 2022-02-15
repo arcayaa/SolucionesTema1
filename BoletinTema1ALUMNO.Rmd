@@ -96,14 +96,16 @@ c.  Muestra los nombres de las filas y las columnas (**rownames**, **colnames**)
 df1 <- mammals
 df2 <- Animals2
 
+#b.
+dim(df1)
+head(df1)
+tail(df1)
+str(df1)
 
-
-
-
-
-
-
-
+dim(df2)
+head(df2)
+tail(df2)
+str(df2)
 
 
 
