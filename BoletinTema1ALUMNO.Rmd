@@ -145,15 +145,7 @@ e.  Determina las diferencia entre los animales que no aparecen en ambos conjunt
 
 ```{r}
 
-
-
-
-
-
-
-
-
-
+#La diferencia es que en un data frame le llama al animal de una manera y en el otro de una forma distinta, pero se refieren al mismo animal
 
 
 ```
