@@ -120,8 +120,10 @@ d.  Usa la función **intersect** y almacena en la variable *commonAnimals* los 
 
 ```{r}
 
-
-
+rm <- rownames(df1)
+ra <- rownames(df2)
+commonAnimals <- intersect(rm, ra)
+commonAnimals
 
 
 
