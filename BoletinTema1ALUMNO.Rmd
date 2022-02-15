@@ -172,9 +172,9 @@ libReturn
 #b.
 head(libReturn$results, n = 5)
 
-
-
-
+#c.
+length(libReturn$results[,1])
+#Tengo instaladas 227 librerias
 
     ```
 
