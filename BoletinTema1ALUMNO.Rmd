@@ -107,11 +107,12 @@ head(df2)
 tail(df2)
 str(df2)
 
+#c.
+rownames(df1)
+colnames(df1)
 
-
-
-
-
+rownames(df2)
+colnames(df2)
 
 ```
 
